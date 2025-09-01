@@ -1,0 +1,16 @@
+---
+title: "Test cross-ref and citations"
+format: html
+---
+
+## Section
+
+This is a simple placeholder for the manuscript's main document [@knuth84]. See @tbl-test.
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 1    | 2    | 3    |
+| 4    | 5    | 6    |
+| 7    | 8    | 9    |
+
+: Table test {#tbl-test}
